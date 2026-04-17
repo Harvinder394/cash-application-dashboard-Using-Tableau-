@@ -58,7 +58,7 @@ Shows Teams performance for parameters - Total received, Total Applied, Total Pe
 <img src="team_performance.png" width="700">
 
 
-### Agent Performance
+<img src="weekly_trend.png" width="700"> Agent Performance
 Shows Agents performance for parameters - Total received, Total Applied, Total Pending and SLA Compliance
 <img src="agent_performance.png" width="700">
 
@@ -68,5 +68,6 @@ Download the .twbx file and open in Tableau Desktop / Tableau Public.
 
 ## 👤 Author
 
-Harvinder Singh
+## Harvinder Singh
+
 Operations & Quality | Data Analytics | Power BI | Tableau

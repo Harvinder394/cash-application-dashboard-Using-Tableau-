@@ -1,0 +1,13 @@
+Pending_ID,Pending_Reason,Pending_Sub Reason
+1,Billing Issues,Contract Inactive
+2,Billing Issues,Incorrect Client ID
+3,Billing Issues,Incorrect Cost Center
+4,Invoice Issues,Incorrect Contract Type
+5,Invoice Issues,Invoice Batch Failure
+6,Invoice Issues,Invoice Cancellation issue
+7,Payroll Issues,Incorrect Payment
+8,Payroll Issues,Shift Cancelled
+9,Payroll Issues,Time Mismatch
+10,Remittance Missing,Incorrect details
+11,Remittance Missing,Partial received
+12,System Issue,Batch Failue

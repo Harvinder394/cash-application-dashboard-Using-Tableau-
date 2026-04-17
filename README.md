@@ -68,6 +68,6 @@ Download the .twbx file and open in Tableau Desktop / Tableau Public.
 
 ## 👤 Author
 
-## Harvinder Singh
+# Harvinder Singh
 
 Operations & Quality | Data Analytics | Power BI | Tableau

@@ -1,6 +1,7 @@
 # 💰 Cash Application Dashboard (Tableau)
 
 ![Dashboard Overview](weekly_trend.png)
+<img src="weekly_trend.png" width="700">
 
 ## 📌 Overview
 
@@ -42,18 +43,23 @@ Organizations face delays in applying customer payments, leading to:
 ## 📷 Dashboard Preview
 
 ### Weekly Trend
+Shows cash received vs applied trend with variance insights
 ![Trend](weekly_trend.png)
 
 ### SLA Compliance
+Shows SLA Compliance for applied Cash with TAT <= 2
 ![SLA](sla_compliance.png)
 
 ### Pending Reason
+Shows Reason for pending cash with sub reason contribution
 ![pending_reason](pending_reason.png)
 
 ### Team Performance
+Shows Teams performance for parameters - Total received, Total Applied, Total Pending and SLA Compliance
 ![team](team_performance.png)
 
 ### Agent Performance
+Shows Agents performance for parameters - Total received, Total Applied, Total Pending and SLA Compliance
 ![Agent](agent_performance.png)
 
 ## 🚀 How to Use

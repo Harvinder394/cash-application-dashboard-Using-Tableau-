@@ -47,19 +47,20 @@ Shows cash received vs applied trend with variance insights
 
 ### SLA Compliance
 Shows SLA Compliance for applied Cash with TAT <= 2
-![SLA](sla_compliance.png)
+<img src="sla_compliance.png" width="700">
 
 ### Pending Reason
 Shows Reason for pending cash with sub reason contribution
-![pending_reason](pending_reason.png)
+<img src="pending_reason.png" width="700">
 
 ### Team Performance
 Shows Teams performance for parameters - Total received, Total Applied, Total Pending and SLA Compliance
-![team](team_performance.png)
+<img src="team_performance.png" width="700">
+
 
 ### Agent Performance
 Shows Agents performance for parameters - Total received, Total Applied, Total Pending and SLA Compliance
-![Agent](agent_performance.png)
+<img src="agent_performance.png" width="700">
 
 ## 🚀 How to Use
 

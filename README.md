@@ -34,7 +34,20 @@ Organizations face delays in applying customer payments, leading to:
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+### Weekly Trend
+![Trend](weekly_trend.png)
+
+### SLA Compliance
+![SLA](sla_compliance.png)
+
+### Pending Reason
+![pending_reason](pending_reason.png)
+
+### Team Performance
+![team](team_performance.png)
+
+### Agent Performance
+![Agent](agent_performance.png)
 
 ## 🚀 How to Use
 

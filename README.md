@@ -1,6 +1,5 @@
 # 💰 Cash Application Dashboard (Tableau)
 
-![Dashboard Overview](weekly_trend.png)
 <img src="weekly_trend.png" width="700">
 
 ## 📌 Overview

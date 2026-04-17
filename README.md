@@ -43,7 +43,7 @@ Organizations face delays in applying customer payments, leading to:
 
 ### Weekly Trend
 Shows cash received vs applied trend with variance insights
-![Trend](weekly_trend.png)
+<img src="weekly_trend.png" width="700">
 
 ### SLA Compliance
 Shows SLA Compliance for applied Cash with TAT <= 2

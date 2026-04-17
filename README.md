@@ -1,5 +1,7 @@
 # 💰 Cash Application Dashboard (Tableau)
 
+![Dashboard Overview](weekly_trend.png)
+
 ## 📌 Overview
 
 This project analyzes the Cash Application process in Accounts Receivable, focusing on payment allocation efficiency, unapplied cash, and SLA adherence.
@@ -22,9 +24,14 @@ Organizations face delays in applying customer payments, leading to:
 
 ## 📈 Key Insights
 
-* Identified peak delays in payment application during month-end
-* Highlighted agents with low SLA adherence
-* Unapplied cash spikes linked to missing remittance details
+- Month-end shows ~25% increase in unapplied cash due to volume surge
+- SLA compliance drops below 85% during high-volume weeks
+- 60% of unapplied cash driven by missing remittance and invoice mismatch
+
+## 💼 Business Impact
+- Enabled faster identification of unapplied cash backlog
+- Improved SLA monitoring for proactive issue resolution
+- Helped prioritize high-impact pending reasons for quicker closure
 
 ## 🛠 Tools Used
 
